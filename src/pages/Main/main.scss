@@ -1,0 +1,35 @@
+.Main {
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px 0;
+
+  h2 {
+    font-family: "Cambria Math";
+  }
+}
+
+.Main-pages {
+  box-shadow: 11px 11px 50px 19px rgba(34, 60, 80, 0.38);
+  margin-top: 50px;
+
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: Bahnschrift;
+  }
+
+  div {
+    position: relative;
+    padding: 20px;
+
+    &:after {
+      content: ">";
+      position: absolute;
+      font-size: 30px;
+      font-weight: 200;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 25px;
+    }
+  }
+}
