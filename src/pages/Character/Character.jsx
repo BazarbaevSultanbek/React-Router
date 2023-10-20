@@ -2,14 +2,17 @@ import {useRef, useState} from 'react';
 import {Link, useParams} from "react-router-dom";
 import "./character.scss";
 import json from "../character.json"
+import { motion } from 'framer-motion';
 function Character() {
     const location = useParams();
     const [id,setId] = useState(+location.id);
     const transitionRef = useRef(null);
-    console.log(id)
 
     return (
-        <div className="Character">
+        <motion.div className="Character"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    exit={{ opacity: 0,transition:{duration:0.1} }}>
                 <Link to="/characters">
                     <div ref={transitionRef} className="Character-back">back</div>
                 </Link>
@@ -29,7 +32,7 @@ function Character() {
                     })
                 }
             </div>
-        </div>
+        </motion.div>
     );
 }
 

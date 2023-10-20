@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Episodes{
   width: 500px;
   margin: 0 auto;
@@ -80,4 +81,88 @@
       background: #ececec;
     }
   }
+=======
+.Episodes{
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px 0;
+  h2 {
+    font-family: "Cambria Math";
+    margin: 45px 0;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+}
+.Episodes-back{
+  text-transform: uppercase;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  position: relative;
+  left: 25px;
+  &::before{
+    position: absolute;
+    content:"<";
+    left: -25px;
+    font-size: 20px;
+    font-weight: 200;
+    top: -5px;
+  }
+  &::after{
+    position: absolute;
+    content:"";
+    width: 25px;
+    height: 1px;
+    color: black;
+  }
+}
+.Episodes-back{
+  text-transform: uppercase;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  position: relative;
+  left: 25px;
+  &::before{
+    position: absolute;
+    content:"<";
+    left: -25px;
+    font-size: 20px;
+    font-weight: 200;
+    top: -5px;
+  }
+  &::after{
+    position: absolute;
+    content:"";
+    width: 25px;
+    height: 1px;
+    color: black;
+  }
+}
+.Episodes-all{
+  box-shadow: 11px 11px 50px 19px rgba(34, 60, 80, 0.38);
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  div{
+    position: relative;
+    padding: 20px;
+    font-family: Bahnschrift;
+    transition: 0.5s all linear;
+    cursor: pointer;
+    &::after{
+      content:">";
+      position: absolute;
+      font-size: 30px;
+      font-weight: 100;
+      right: 25px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    &:hover{
+      background: #ececec;
+    }
+  }
+>>>>>>> db509e1aef323e56a00400905857459f53cc6bd5
 }
