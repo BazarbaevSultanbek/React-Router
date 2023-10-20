@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .Character{
   width: 500px;
   margin: 0 auto;
@@ -45,86 +45,4 @@
   p{
     font-family: Bahnschrift;
   }
-}
-Character-list-enter {
-  transform: translateX(100%);
-}
-
-.Character-list-enter-active {
-  transform: translateX(0);
-  transition: transform 0.5s ease-in-out;
-}
-
-.Character-list-exit {
-  transform: translateX(0);
-}
-
-.Character-list-exit-active {
-  transform: translateX(-100%);
-  transition: transform 0.5s ease-in-out;
-=======
-.Character{
-  width: 500px;
-  margin: 0 auto;
-  padding: 50px 0;
-  h2 {
-    font-family: "Cambria Math";
-    margin: 45px 0;
-  }
-  a{
-    text-decoration: none;
-    color: black;
-  }
-}
-.Character-back{
-  text-transform: uppercase;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  position: relative;
-  left: 25px;
-  &::before{
-    position: absolute;
-    content:"<";
-    left: -25px;
-    font-size: 20px;
-    font-weight: 200;
-    top: -5px;
-  }
-  &::after{
-    position: absolute;
-    content:"";
-    width: 25px;
-    height: 1px;
-    color: black;
-  }
-}
-.Character-menu{
-  box-shadow: 11px 11px 50px 19px rgba(34, 60, 80, 0.38);
-  padding: 20px;
-  padding-top:5px;
-  h3{
-    margin: 20px 0;
-    font-family: "Cambria Math";
-  }
-  p{
-    font-family: Bahnschrift;
-  }
-}
-Character-list-enter {
-  transform: translateX(100%);
-}
-
-.Character-list-enter-active {
-  transform: translateX(0);
-  transition: transform 0.5s ease-in-out;
-}
-
-.Character-list-exit {
-  transform: translateX(0);
-}
-
-.Character-list-exit-active {
-  transform: translateX(-100%);
-  transition: transform 0.5s ease-in-out;
->>>>>>> db509e1aef323e56a00400905857459f53cc6bd5
 }

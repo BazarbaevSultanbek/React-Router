@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -45,52 +45,4 @@
     "name": "Waylon Smithers",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
   }
-=======
-[
-  {
-    "id": 1,
-    "name": "Homer Simpson",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 2,
-    "name": "Marge Simpson",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 3,
-    "name": "Bart Simpson",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 4,
-    "name": "Lisa Simpson",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 5,
-    "name": "Maggie Simpson",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 6,
-    "name": "Ned Flanders",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 7,
-    "name": "Maude Flanders",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 8,
-    "name": "Charles Montgomery Burns",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  },
-  {
-    "id": 9,
-    "name": "Waylon Smithers",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget velit tincidunt, rhoncus dui et, blandit felis. Aenean quis purus sit amet ipsum dictum ultricies eu facilisis enim. Sed dapibus gravida eros, vitae commodo ligula consequat eget. Morbi eget malesuada odio. Pellentesque non aliquam ligula, et commodo velit. Duis tempor eget libero ut congue. Suspendisse at nunc dolor. Phasellus consectetur luctus efficitur. Ut dapibus accumsan maximus."
-  }
->>>>>>> db509e1aef323e56a00400905857459f53cc6bd5
 ]
